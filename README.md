@@ -1,10 +1,10 @@
 # GestiuneDonatii
 
-Proiect semestrial la MPP - UBB Cluj 2024
-Gestiunea donatiilor de tip teledon
-Aplicatie de tip client-server
+Proiect semestrial la MPP - UBB Cluj 2024 <br/>
+Gestiunea donatiilor de tip teledon <br/>
+Aplicatie de tip client-server <br/>
 
-Functionalitati
+## Functionalitati
 - Login voluntar
 - Vizualizare cauze si sume stranse
 - Adaugare donatii noi
